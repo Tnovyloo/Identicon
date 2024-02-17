@@ -20,4 +20,4 @@ and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/identicon>.
 
 ## Running code on windows PowerShell
-To run iex shell you have to type "iex.bat -S mix" because "iex" is an builded command in PowerShell.
+To run iex shell you have to type ```iex.bat -S mix``` because ```iex`` is an builded command in PowerShell.
